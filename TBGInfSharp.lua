@@ -1,3 +1,4 @@
+-- Version 1.2.2
 require("TBGHelperScripts/helpers")
 
 local config = {
